@@ -2,8 +2,6 @@ Hello world
 
 hello world from laptop
 
-<<<<<<< HEAD
-again desktop
-=======
+again desktop error
+
 again laptop
->>>>>>> 656d716cc1b98166a98601ad72e0372fd791def3
