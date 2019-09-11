@@ -11,3 +11,5 @@ again desktop error
 again laptop
 
 ami abar kecu add korci
+
+abar abar kecu add korlam laptop theke
