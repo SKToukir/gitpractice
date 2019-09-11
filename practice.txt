@@ -12,4 +12,6 @@ again laptop
 
 ami abar kecu add korci
 
+
 ami abar abar kecu desktop theke add korci
+abar abar kecu add korlam laptop theke
